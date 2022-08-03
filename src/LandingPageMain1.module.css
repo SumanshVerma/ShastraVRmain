@@ -1,0 +1,336 @@
+.landingPageMainRoot {
+  width: 1920px;
+  background-color: #ffffff;
+  display: flex;
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.blackFlexColumn {
+  height: 4320px;
+  background-color: #1a1a1a;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+.untitled {
+  background-image: url("https://file.rendit.io/n/1Mq97WmFWktkk0ukhPTa.png");
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0px 0px 122px 0px;
+}
+.flexColumn {
+  height: 1080px;
+  background-image: url("https://file.rendit.io/n/SOOjz1VHAO7AeO8GBJoF.svg");
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 549px;
+  align-items: flex-start;
+}
+.element1 {
+  align-self: stretch;
+  height: 100px;
+  position: relative;
+  min-width: 1920px;
+}
+.flexRow {
+  width: 1840px;
+  height: 76px;
+  background-image: url("https://file.rendit.io/n/SwXsM0XvaIEBJoPZLeAk.svg");
+  background-size: cover;
+  position: absolute;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-end;
+  padding: 0px 40px 23px 40px;
+}
+.image1 {
+  width: 124px;
+  height: 53px;
+  margin: 0px 70px 0px 0px;
+}
+.image2 {
+  width: 2px;
+  height: 10px;
+  align-self: flex-start;
+  margin: 0px 114px 0px 0px;
+}
+.text1 {
+  width: 84px;
+  height: 22px;
+  font-size: 24px;
+  font-family: Montserrat;
+  color: #ffffff;
+  margin: 0px 115px 16px 0px;
+}
+.image3 {
+  width: 2px;
+  height: 10px;
+  align-self: flex-start;
+  margin: 0px 115px 0px 0px;
+}
+.text2 {
+  width: 128px;
+  height: 22px;
+  font-size: 24px;
+  font-family: Montserrat;
+  color: #ffffff;
+  margin: 0px 71px 17px 0px;
+}
+.image4 {
+  width: 2px;
+  height: 10px;
+  align-self: flex-start;
+  margin: 0px 59px 0px 0px;
+}
+.asset {
+  width: 78px;
+  height: 26px;
+  margin: 0px 58px 17px 0px;
+}
+.image5 {
+  width: 2px;
+  height: 10px;
+  align-self: flex-start;
+  margin: 0px 84px 0px 0px;
+}
+.text3 {
+  width: 343px;
+  height: 22px;
+  font-size: 24px;
+  font-family: Montserrat;
+  color: #ffffff;
+  margin: 0px 31px 17px 0px;
+}
+.arrowForward {
+  width: 120.5px;
+  height: 23.16px;
+  margin: 0px 0px 10.2px 0px;
+}
+.image6 {
+  width: 1920px;
+  height: 3px;
+  position: absolute;
+  top: 97px;
+}
+.text4 {
+  font-size: 96px;
+  font-family: Montserrat;
+  text-decoration: underline;
+  color: #ffffff;
+  margin: 0px 0px 0px 76px;
+  white-space: pre-wrap;
+}
+.component {
+  display: flex;
+  flex-direction: row;
+  gap: 42px;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0px 0px 199px 0px;
+}
+.flexColumn1 {
+  border-color: #ffffff;
+  border-style: solid;
+  width: 369.19px;
+  height: 249px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-end;
+  border-radius: 52px;
+  padding: 34px 35px 34px 37.81px;
+  border-width: 1px;
+}
+.icon1 {
+  width: 76.07px;
+  height: 73.33px;
+  align-self: flex-start;
+  margin: 0px 0px 36.67px 0px;
+}
+.text5 {
+  width: 368px;
+  font-size: 36px;
+  font-family: Montserrat;
+  font-weight: 600;
+  color: #ffffff;
+  margin: 0px 0px 17px 0px;
+}
+.flexColumn2 {
+  border-color: #ffffff;
+  border-style: solid;
+  width: 388.81px;
+  height: 249.25px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  border-radius: 52px;
+  padding: 33.87px 18px 33.87px 35.19px;
+  border-width: 1px;
+}
+.icon {
+  width: 77.38px;
+  height: 73.96px;
+  margin: 0px 0px 36.16px 0px;
+}
+.text6 {
+  width: 387px;
+  font-size: 36px;
+  font-family: Montserrat;
+  font-weight: 600;
+  color: #ffffff;
+  align-self: flex-end;
+  margin: 0px 0px 17px 0px;
+}
+.flexColumn3 {
+  border-color: #ffffff;
+  border-style: solid;
+  width: 368.76px;
+  height: 250.52px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  border-radius: 52px;
+  padding: 33.24px 13px 33.24px 60.24px;
+  border-width: 1px;
+}
+.icon2 {
+  width: 76.12px;
+  height: 73.69px;
+  margin: 0px 0px 37.07px 0px;
+}
+.text7 {
+  width: 173px;
+  font-size: 36px;
+  font-family: Montserrat;
+  font-weight: 600;
+  color: #ffffff;
+  margin: 0px 0px 17px 0.76px;
+}
+.paragraph2 {
+  width: 368px;
+  font-size: 20px;
+  font-family: Montserrat;
+  color: #ffffff;
+  align-self: flex-end;
+}
+.element2 {
+  height: 992px;
+  position: relative;
+  min-width: 1920px;
+  margin: 0px 0px 1259px 0px;
+}
+.timberwolfFlexColumn {
+  height: 728px;
+  background-color: #d9d9d9;
+  display: flex;
+  position: absolute;
+  top: 264px;
+  left: 670px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0px 37px 0px 38px;
+}
+.text8 {
+  height: 532px;
+  font-size: 60px;
+  font-family: Montserrat;
+  font-weight: 600;
+}
+.paragraph3 {
+  font-size: 60px;
+  font-family: Montserrat;
+  font-weight: 500;
+  display: contents;
+  white-space: pre-wrap;
+}
+.element3 {
+  border-color: #d9d9d9;
+  border-style: solid;
+  width: 836px;
+  height: 416px;
+  position: absolute;
+  border-width: 1px;
+}
+.aboutus {
+  width: 548px;
+  height: 285px;
+  position: absolute;
+  top: 48px;
+  left: 75px;
+}
+.image7 {
+  width: 106.89px;
+  height: 106.89px;
+  position: absolute;
+  top: 229.5px;
+  left: 358.61px;
+}
+.s {
+  width: 68px;
+  height: 74px;
+  align-self: flex-end;
+  position: relative;
+  margin: 0px 233px 112.5px 0px;
+}
+.image8 {
+  width: 22.09px;
+  height: 32.39px;
+  position: absolute;
+  top: -11.15px;
+  left: 23.25px;
+}
+.element4 {
+  border-color: #ffffff;
+  border-style: solid;
+  width: 65px;
+  height: 71px;
+  position: absolute;
+  top: -1.5px;
+  left: -1.5px;
+  border-width: 3px;
+}
+.image9 {
+  width: 1460px;
+  height: 1px;
+  margin: 0px 0px 62.5px 0px;
+}
+.flexRow1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 0px 230px;
+}
+.element5 {
+  align-self: stretch;
+  width: 527px;
+  height: 38px;
+  position: relative;
+  flex-grow: 1;
+  margin: 0px 653px 0px 0px;
+}
+.flexRow2 {
+  display: flex;
+  flex-direction: row;
+  gap: 84px;
+  justify-content: flex-start;
+  align-items: center;
+  position: absolute;
+  top: 4px;
+}
+.linkedInNegative {
+  width: 31px;
+  height: 31px;
+}
